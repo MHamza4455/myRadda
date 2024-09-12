@@ -1,0 +1,10 @@
+.header.header--middle-left {
+    display: flex;
+    justify-content: space-between;
+}
+.page-width {
+    max-width: 90%;
+}
+.custom-header-width {
+    max-width: 100%;
+}
